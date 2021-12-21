@@ -22,9 +22,9 @@ pytest test.py
 
 ## Building with
 
-* [Python] (https://www.python.org/) - Programing Language
-* [Pytest] (https://docs.pytest.org/en/6.2.x/) - Framework Test
-* [Nestworkx] (https://networkx.org/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
+* [Python](https://www.python.org/) - Programing Language
+* [Pytest](https://docs.pytest.org/en/6.2.x/) - Framework Test
+* [Nestworkx](https://networkx.org/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
 
 ## Author
 
